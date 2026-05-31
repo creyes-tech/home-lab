@@ -33,4 +33,4 @@ Certifications
 
 
 Contact
-[LinkedIn] | github.com/creyes-tech
+github.com/creyes-tech
